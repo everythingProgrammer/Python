@@ -6,7 +6,11 @@
 
 ![image of project](https://raw.githubusercontent.com/everythingProgrammer/Python/master/Screenshot%20from%202019-06-01%2012-12-49.png)
 
+ ![Go to Project !](https://github.com/everythingProgrammer/Python/blob/master/Project1_calculator.py)
+
 **`Project 2: Student Management System Using Tnkinter and SQLite3`**
 
 ![image of GUI of System](https://raw.githubusercontent.com/everythingProgrammer/Python/master/Screenshot%20from%202019-06-01%2012-04-39.png)
 ![image of Database Entries made through the system](https://raw.githubusercontent.com/everythingProgrammer/Python/master/Screenshot%20from%202019-06-01%2012-06-53.png)
+
+![ View Source Code](https://github.com/everythingProgrammer/Python/blob/master/Student_Entry.py)
